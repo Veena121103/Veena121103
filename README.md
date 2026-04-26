@@ -13,7 +13,7 @@
 - Optimized model for deployment and improved performance  
 - Deployed the application with a live demo  
 
-🔗 Live Demo: https://your-app.streamlit.app  
+🔗 Live Demo: [https://your-app.streamlit.app](https://energy-ai-project-kdfvg59ssvi3jyndrpgsui.streamlit.app/)  
 🔗 GitHub: https://github.com/Veena121103/energy-ai-project  
 
 ---
